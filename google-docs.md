@@ -10,3 +10,13 @@ corner of the Gmail main page.
 Once I know your Gmail address, I'll set up a file and share it with you. You will receive a link to
 that file to your Gmail address. If, after clicking the link, you will see a document with a
 welcoming message in your browser, you are set up for your lesson.
+
+# Getting Started with Basic 
+
+To find another person on the file click **Share** button on the top-right corner.
+
+To easier navigate your document create headings. To create a heading place the cursor on the text and press **Ctrl + Alt + 1**. 
+
+To see table of contents of the file click the small icon **Show document outline** on the left.
+
+To add a comment press together **Ctrl + Alt + M**. 
